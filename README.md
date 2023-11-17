@@ -17,7 +17,7 @@
 
 7) This is done to get the desired format:
 
-1 Drug: <DRUG NAME>\nMalady:
+Drug: <DRUG NAME>\nMalady:
 
 8) For this example, we don't need the 'Description' column, that's why the script drops it from the data frame.
 
